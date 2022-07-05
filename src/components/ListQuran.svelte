@@ -44,7 +44,7 @@
                                     class="btn btn-tafsir"
                                     data-bs-toggle="modal"
                                     data-bs-target="#tafsirModal{surah.number}"
-                                    >Tafsir</button
+                                    >Asbabun Nuzul</button
                                 >
                                 <Modal
                                     title={surah.asma.id.short}
